@@ -5,7 +5,10 @@ In assignment 4 we created a basic tic tac toe game so that we could learn objec
 ## Reflection Questions
 
 1. What was the most difficult part to tic-tac-toe?
+The most difficult part of this was figuring out the increments because I didn't completely understand the syntax for lists. 
 
 2. Explain how you would add a computer player to the game.
+I would have to create a bunch of conditionals and write out every scenario that a computer would make. I would have to add a computer player and program it to respond after the human player says their move.
 
 3. If you add a computer player, explain (doesn't have to be super technical) how you might get the computer player to play the best move every time. *Note - I am not grading this for a correct answer, I just want to know your thoughts on how you might accomplish it.
+I am not really sure. The computer would need to analyze and go through every scenario to figure out which is the best choice. Or, a human can write out every single scenario and tell the computer exactly what t do. I am not sure how to program the computer to figure it out on its own.
